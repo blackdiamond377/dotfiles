@@ -1,0 +1,1 @@
+/home/paul/scripts/i3pystatus_config.py
