@@ -3,6 +3,8 @@ execute pathogen#infect()
 set nocompatible
 set backspace=2 " allow backspacing of everything, including \n
 
+set mouse=a " enable mouse scrolling (for tmux sessions)
+
 set ts=4 " set tabstop to 4
 set shiftwidth=4 " also set shiftwidth to 4
 set expandtab " expand tabs to spaces
