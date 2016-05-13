@@ -1,5 +1,7 @@
 source /usr/share/zsh/scripts/antigen/antigen.zsh
 
+export EDITOR=vim
+
 antigen use oh-my-zsh
 
 antigen bundle git
